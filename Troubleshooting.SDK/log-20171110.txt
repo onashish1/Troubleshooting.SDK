@@ -1,0 +1,81 @@
+00:17:28.197 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+00:17:28.337 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+00:17:28.368 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+00:17:28.605 [Information] Loaded service: "CalculatorService"
+00:17:28.607 [Information] Loaded service: "DecisionsService"
+00:17:28.608 [Information] Loaded service: "GeneratorService"
+00:17:28.705 [Debug      ] hello {}
+00:17:28.714 [Information] Hello from the calculator!
+00:17:28.721 [Information] Hello from the decisions!
+00:17:28.723 [Information] Hello from the generator!
+00:17:28.726 [Debug      ] You've now entered the main loop. Press CTRL+C or issue a cancel command to exit.
+05:33:13.420 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+05:33:13.550 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+05:33:13.575 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+05:33:13.772 [Information] Loaded service: "CalculatorService"
+05:33:13.773 [Information] Loaded service: "DecisionsService"
+05:33:13.774 [Information] Loaded service: "GeneratorService"
+05:33:13.857 [Debug      ] hello {}
+05:33:13.864 [Information] Hello from the calculator!
+05:33:13.871 [Information] Hello from the decisions!
+05:33:13.873 [Information] Hello from the generator!
+05:33:13.875 [Debug      ] You've now entered the main loop. Press CTRL+C or issue a cancel command to exit.
+05:33:18.874 [Debug      ] Calculator is still alive. {}
+05:33:20.128 [Debug      ] Decisions is still alive. {}
+05:33:20.876 [Debug      ] Generator is still alive. {}
+14:38:45.982 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+14:38:46.102 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+14:38:46.114 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+14:38:46.346 [Information] Loaded service: "CalculatorService"
+14:38:46.348 [Information] Loaded service: "DecisionsService"
+14:38:46.349 [Information] Loaded service: "GeneratorService"
+14:38:46.435 [Debug      ] hello {}
+14:38:46.442 [Information] Hello from the calculator!
+14:38:46.448 [Information] Hello from the decisions!
+14:38:46.450 [Information] Hello from the generator!
+14:38:46.453 [Debug      ] You've now entered the main loop. Press CTRL+C or issue a cancel command to exit.
+14:38:51.449 [Debug      ] Calculator is still alive. {}
+14:38:52.703 [Debug      ] Decisions is still alive. {}
+14:38:53.454 [Debug      ] Generator is still alive. {}
+17:55:01.342 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+17:55:02.469 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+17:55:02.582 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+17:55:04.428 [Information] Loaded service: "CalculatorService"
+17:55:04.432 [Information] Loaded service: "DecisionsService"
+17:55:04.435 [Information] Loaded service: "GeneratorService"
+17:57:31.423 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+17:57:32.104 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+17:57:32.192 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+17:57:33.299 [Information] Loaded service: "CalculatorService"
+17:57:33.312 [Information] Loaded service: "DecisionsService"
+17:57:33.336 [Information] Loaded service: "GeneratorService"
+17:58:25.716 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+17:58:26.676 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+17:58:26.730 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+17:58:28.085 [Information] Loaded service: "CalculatorService"
+17:58:28.095 [Information] Loaded service: "DecisionsService"
+17:58:28.125 [Information] Loaded service: "GeneratorService"
+18:00:16.536 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+18:00:17.378 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+18:00:17.441 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+18:00:18.636 [Information] Loaded service: "CalculatorService"
+18:00:18.641 [Information] Loaded service: "DecisionsService"
+18:00:18.644 [Information] Loaded service: "GeneratorService"
+18:00:51.667 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+18:00:52.630 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+18:00:52.707 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+18:00:53.988 [Information] Loaded service: "CalculatorService"
+18:00:53.992 [Information] Loaded service: "DecisionsService"
+18:00:53.995 [Information] Loaded service: "GeneratorService"
+18:04:15.634 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+18:04:16.455 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+18:04:16.521 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+18:04:17.788 [Information] Loaded service: "CalculatorService"
+18:04:17.798 [Information] Loaded service: "DecisionsService"
+18:04:17.808 [Information] Loaded service: "GeneratorService"
+18:06:30.493 [Information] load-microservice: "Troubleshooting.Calculator" successfully added.
+18:06:31.530 [Information] load-microservice: "Troubleshooting.Decisions" successfully added.
+18:06:31.569 [Information] load-microservice: "Troubleshooting.Generator" successfully added.
+18:06:33.064 [Information] Loaded service: "CalculatorService"
+18:06:33.070 [Information] Loaded service: "DecisionsService"
+18:06:33.076 [Information] Loaded service: "GeneratorService"
